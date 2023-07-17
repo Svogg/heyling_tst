@@ -16,7 +16,7 @@
 
 #### 1) Download the code
 ```
-git clone https://github.com/Svogg/xakaton
+git clone https://github.com/Svogg/heyling_tst
 ```
 #### 2) Run docker-compose
 ```
